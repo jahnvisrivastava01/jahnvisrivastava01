@@ -9,10 +9,10 @@
 
 ## 🚀 About Me
 
-- 🎓 2nd Year B.Tech CSE Student at *Amity University, Mumbai*
+- 🎓 2nd Year B.Tech CSE Student at Amity University, Mumbai
 - 🛠 *Technical Lead* at Google Developer Groups (GDG) On Campus
-- 💻 Front-end dev with experience in *HTML, **CSS, **JavaScript*
-- 🧠 Strong command in *C/C++, **Python, **Java, and **MySQL*
+- 💻 Front-end dev with experience in HTML, CSS, JavaScript
+- 🧠 Strong command in C/C++, Python, Java, and MySQL
 - 🎯 Passionate about coding, solving problems, and tech community leadership
 - 📚 Certified in Cybersecurity, PowerBI, and Web Development
 
