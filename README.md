@@ -56,7 +56,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jahnvisrivastava20/)
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white)](mailto:jahnvisrivastava0104@gmail.com)
-![LeetCode Stats](https://leetcode.card.workers.dev/yourusername?theme=dark&font=baloo)
+![LeetCode Stats](https://leetcode.card.workers.dev/jahnvisrivastava20?theme=dark&font=baloo)
 
 ---
 
