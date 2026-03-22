@@ -45,6 +45,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahnvisrivastava01&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
+https://github-readme-streak-stats.herokuapp.com?user=jahnvisrivastava01&theme=tokyonight&hide_border=true&cache_seconds=1800
+
 ---
 
 ## 🌱 Hobbies & Interests
