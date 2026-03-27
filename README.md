@@ -5,7 +5,7 @@
 
 ---
 
-<img align="right" height="200" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="coding-gif" />
+
 
 ## 🚀 About Me
 
