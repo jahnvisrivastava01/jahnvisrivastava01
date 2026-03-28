@@ -10,7 +10,7 @@
 ## 🚀 About Me
 
 - 🎓 3rd Year B.Tech CSE Student at Amity University, Mumbai
-- 🛠 *Technical Lead* at Google Developer Groups (GDG) On Campus
+- 🛠 *Technical Lead* at Google Developer Groups (GDG) On Campus (2024-25)
 - 💻 Front-end dev with experience in HTML, CSS, JavaScript
 - 🧠 Strong command in C/C++, Python, Java, and MySQL
 - 🎯 Passionate about coding, solving problems, and tech community leadership
