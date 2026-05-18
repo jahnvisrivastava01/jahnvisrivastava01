@@ -46,19 +46,22 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahnvisrivastava01&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
+---
+## 📊 GitHub Contribution Graph
 
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jahnvisrivastava01&theme=tokyo-night&hide_border=true" />
+</p>
 ---
 
 ## 🌱 Hobbies & Interests
 
-- 📚 Reading
-- 🧩 Coding Challenges
-- 🏸 Playing Badminton
-- 💬 Tech Events & Community Volunteering
-
+- 💻 Building AI & Frontend Projects
+- 🧩 Solving Coding Challenges
+- 🎨 Exploring UI/UX Design
+- 🚀 Learning New Technologies
+  
 ---
-
 ## 📬 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jahnvisrivastava20/)
