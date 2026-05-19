@@ -62,13 +62,12 @@
 - 🚀 Learning New Technologies
   
 ---
+
 ## 📬 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jahnvisrivastava20/)
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white)](mailto:jahnvisrivastava0104@gmail.com)
 
-
 ---
 
-> “Exploring code, building ideas, and growing with every challenge!”
-
+> “Building intelligent solutions through code, creativity, and continuous learning.”
