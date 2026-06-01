@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jahnvi Srivastava</h1>
 <p align="center">
-  <b>B.Tech CSE @ Amity University (2023-2027), Mumbai | GDG Technical Lead (2024-25) | Front-End Developer & Coding Enthusiast</b>
+  <b>B.Tech CSE @ Amity University, Mumbai (2023-2027) | GDG Technical Lead (2024-25) | Front-End Developer & Coding Enthusiast</b>
 </p>
 
 ---
@@ -30,6 +30,7 @@
 ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
