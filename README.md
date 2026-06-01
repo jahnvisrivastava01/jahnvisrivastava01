@@ -10,7 +10,7 @@
 - 🎓 3rd Year B.Tech CSE Student at Amity University Mumbai
 - 🛠 Technical Lead at Google Developer Groups (GDG) On Campus (2024–25)
 - 💻 Frontend Developer skilled in React, JavaScript, HTML, CSS, Tailwind CSS, and Vite
--🐍 Proficient in Python with experience in problem-solving, data analysis, and application development
+- 🐍 Proficient in Python with experience in problem-solving, data analysis, and application development
 - 🚀 Passionate about building interactive web experiences and solving real-world problems
 - 📚 Certified in Cybersecurity, Power BI, and Web Development
 - 🌱 Currently exploring Full Stack Development, AI-powered apps, and Data Analytics
