@@ -34,6 +34,21 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+## 🚀 Featured Projects
+
+### 📄 Resume Scanner AI
+AI-powered resume analyzer for ATS optimization.
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://resume-scanner-ai-1.onrender.com/)
+
+---
+
+### 🌐 Portfolio
+Modern responsive portfolio website built with React and Tailwind CSS.
+
+[![Portfolio](https://img.shields.io/badge/View-Portfolio-blue?style=for-the-badge)](https://jahnviii-portfolio.netlify.app)
+
+---
 ## 📈 GitHub Stats
 
 <p align="center">
