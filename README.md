@@ -36,8 +36,13 @@
 ---
 ## 🚀 Live Projects
 
-[![Resume Scanner AI](https://img.shields.io/badge/📄%20Resume%20Scanner%20AI-Live-success?style=for-the-badge)](https://resume-scanner-ai-1.onrender.com/)
-[![Developer Portfolio](https://img.shields.io/badge/🌐%20Developer%20Portfolio-Live-blue?style=for-the-badge)](https://jahnviii-portfolio.netlify.app)
+<a href="https://resume-scanner-ai-1.onrender.com/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=Resume-Scanner-AI&theme=tokyonight" />
+</a>
+
+<a href="https://jahnviii-portfolio.netlify.app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=Portfolio-Website&theme=tokyonight" />
+</a>
 
 ---
 ## 📈 GitHub Stats
