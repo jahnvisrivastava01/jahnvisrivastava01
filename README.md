@@ -34,6 +34,19 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+## 🏗️ Notable Projects
+
+- 📄 Resume Scanner AI
+- 🌐 Portfolio Website
+- 📝 Notes API Backend
+- 🛒 Zonify
+- 📌 AI Career Scanner
+- 🌤️ Weather Dashboard
+- 🎮 Quiz Game
+
+```
+
+---
 ## 🔗 Live Projects
 
 <p align="center">
