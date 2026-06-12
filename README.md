@@ -61,7 +61,6 @@
 - 🌐 Portfolio Website
 - 📝 Notes API Backend
 - 🛒 Zonify
-- 📌 AI Career Scanner
 - 🌍 Smart Translator
 - 🌤️ Weather Dashboard
 - 🎮 Quiz Game
