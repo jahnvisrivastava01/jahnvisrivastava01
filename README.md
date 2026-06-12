@@ -34,10 +34,18 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-## 🚀 Live Projects
+## 🔗 Live Projects
+```
+<p align="center">
+  <a href="https://resume-scanner-ai-1.onrender.com/">
+    <img src="https://img.shields.io/badge/RESUME%20SCANNER%20AI-8A2BE2?style=for-the-badge" />
+  </a>
+  <a href="https://jahnviii-portfolio.netlify.app">
+    <img src="https://img.shields.io/badge/PORTFOLIO%20WEBSITE-00A6A6?style=for-the-badge" />
+  </a>
+</p>
+```
 
-[![Resume Scanner AI](https://img.shields.io/badge/RESUME%20SCANNER%20AI-8A2BE2?style=for-the-badge&logo=ai)](https://resume-scanner-ai-1.onrender.com/)
-[![PORTFOLIO WEBSITE](https://img.shields.io/badge/PORTFOLIO%20WEBSITE-00A6A6?style=for-the-badge&logo=googlechrome)](https://jahnviii-portfolio.netlify.app)
 
 ---
 ## 📈 GitHub Stats
