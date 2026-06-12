@@ -36,8 +36,6 @@
 ---
 ## 🚀 Live Projects
 
-## 🚀 Live Projects
-
 [![Resume Scanner AI](https://img.shields.io/badge/RESUME%20SCANNER%20AI-8A2BE2?style=for-the-badge&logo=ai)](https://resume-scanner-ai-1.onrender.com/)
 [![PORTFOLIO WEBSITE](https://img.shields.io/badge/PORTFOLIO%20WEBSITE-00A6A6?style=for-the-badge&logo=googlechrome)](https://jahnviii-portfolio.netlify.app)
 
