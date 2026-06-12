@@ -44,8 +44,6 @@
 - 🌤️ Weather Dashboard
 - 🎮 Quiz Game
 
-```
-
 ---
 ## 🔗 Live Projects
 
