@@ -36,8 +36,10 @@
 ---
 ## 🚀 Live Projects
 
-[![Resume Scanner AI](https://capsule-render.vercel.app/api?type=rect&color=9400D3&height=90&section=header&text=RESUME%20SCANNER%20AI&fontSize=32&fontColor=ffffff)](https://resume-scanner-ai-1.onrender.com/)
-[![Portfolio Website](https://capsule-render.vercel.app/api?type=rect&color=FF7F50&height=90&section=header&text=PORTFOLIO%20WEBSITE&fontSize=32&fontColor=ffffff)](https://jahnviii-portfolio.netlify.app)
+## 🚀 Live Projects
+
+[![Resume Scanner AI](https://img.shields.io/badge/RESUME%20SCANNER%20AI-8A2BE2?style=for-the-badge&logo=ai)](https://resume-scanner-ai-1.onrender.com/)
+[![PORTFOLIO WEBSITE](https://img.shields.io/badge/PORTFOLIO%20WEBSITE-00A6A6?style=for-the-badge&logo=googlechrome)](https://jahnviii-portfolio.netlify.app)
 
 ---
 ## 📈 GitHub Stats
