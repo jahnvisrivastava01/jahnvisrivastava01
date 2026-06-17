@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jahnvi Srivastava</h1>
 <p align="center">
-  <b>B.Tech CSE @ Amity University, Mumbai | GDG Technical Lead (2024-25) | Front-End Developer & Coding Enthusiast</b>
+  <b>B.Tech CSE @ Amity University, Mumbai | GDG Technical Lead (2024-25) | Full Stack Developer | C# & .NET Enthusiast </b>
 </p>
 
 ---
@@ -9,6 +9,7 @@
 
 - 🎓 3rd Year B.Tech CSE Student at Amity University Mumbai (2023-2027)
 - 🛠 Technical Lead at Google Developer Groups (GDG) On Campus (2024–25)
+- 🏦 Summer Intern at State Bank of India (SBI)
 - 💻 Frontend Developer skilled in React, JavaScript, HTML, CSS, Tailwind CSS, and Vite
 - ⚡ Currently learning C#, .NET, and ASP.NET while building projects and exploring enterprise application development
 - 🐍 Proficient in Python with experience in problem-solving, data analysis, and application development
