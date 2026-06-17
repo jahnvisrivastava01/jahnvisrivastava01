@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jahnvi Srivastava</h1>
 <p align="center">
-  <b>B.Tech CSE @ Amity University, Mumbai | GDG Technical Lead (2024-25) | Full Stack Developer | C# & .NET Enthusiast </b>
+  <b>B.Tech CSE @ Amity University, Mumbai | GDG Technical Lead (2024-25) | Frontend Developer | C# & .NET Enthusiast </b>
 </p>
 
 ---
