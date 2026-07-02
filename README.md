@@ -1,95 +1,3 @@
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jahnvisrivastava01&show_icons=trueHi there 👋, I'm Jahnvi Srivastava
-
-<h3 align="center">💻 Full Stack Developer (Learning) | ASP.NET Core | React | AI Enthusiast</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;CSE+Student+%7C+Aspiring+Software+Engineer;Building+Real+World+Projects;Always+Learning+Something+New+🚀" />
-</p>
-
-👩‍💻 About Me
-
-🎓 B.Tech CSE Student (2023–2027)
-
-🏦 Software Development Intern at SBI
-
-💙 Learning ASP.NET Core, Entity Framework Core & SQL Server
-
-⚛️ Frontend Developer with React
-
-🤖 Passionate about AI-powered applications
-
-🌱 Currently building real-world enterprise projects
-
-
-🚀 Tech Stack
-
-Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=cs,python,cpp,c,js,html,css,sql" />
-</p>
-
-Frameworks & Libraries
-
-<p>
-<img src="https://skillicons.dev/icons?i=dotnet,react,tailwind,bootstrap,nodejs" />
-</p>
-
-Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,postman" />
-</p>
-
-🚀 Featured Projects
-
-Project
-
-Description
-
-🤖 Resume Scanner AI
-
-AI-powered resume analyzer
-
-🌐 Portfolio Website
-
-Personal responsive portfolio
-
-📝 Notes API Backend
-
-REST API using ASP.NET Core
-
-🌤️ Weather Dashboard
-
-Weather application using APIs
-
-🌍 Smart Translator
-
-Translation web Application
-
-
-📊 GitHub Stats
-
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jahnvisrivastava01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jahnvisrivastava01&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahnvisrivastava01&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-📈 Contribution Graph
-
-<p align="center">
 Hi there, I'm Jahnvi Srivastava 👋
 
 <h3 align="center">💻 Software Developer in Progress | ASP.NET Core • React • C#</h3><p align="center">
@@ -292,3 +200,101 @@ Translation application with a clean user interface.
 <p align="center">
 ⭐ <i>"Great software isn't just written—it's designed, refined, and continuously improved."</i>
 </p>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jahnvisrivastava01&show_icons=trueHi there 👋, I'm Jahnvi Srivastava
+
+<h3 align="center">💻 Full Stack Developer (Learning) | ASP.NET Core | React | AI Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;CSE+Student+%7C+Aspiring+Software+Engineer;Building+Real+World+Projects;Always+Learning+Something+New+🚀" />
+</p>
+
+👩‍💻 About Me
+
+🎓 B.Tech CSE Student (2023–2027)
+
+🏦 Software Development Intern at SBI
+
+💙 Learning ASP.NET Core, Entity Framework Core & SQL Server
+
+⚛️ Frontend Developer with React
+
+🤖 Passionate about AI-powered applications
+
+🌱 Currently building real-world enterprise projects
+
+
+🚀 Tech Stack
+
+Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cs,python,cpp,c,js,html,css,sql" />
+</p>
+
+Frameworks & Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=dotnet,react,tailwind,bootstrap,nodejs" />
+</p>
+
+Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,postman" />
+</p>
+
+🚀 Featured Projects
+
+Project
+
+Description
+
+🤖 Resume Scanner AI
+
+AI-powered resume analyzer
+
+🌐 Portfolio Website
+
+Personal responsive portfolio
+
+📝 Notes API Backend
+
+REST API using ASP.NET Core
+
+🌤️ Weather Dashboard
+
+Weather application using APIs
+
+🌍 Smart Translator
+
+Translation web Application
+
+
+📊 GitHub Stats
+
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jahnvisrivastava01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jahnvisrivastava01&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahnvisrivastava01&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+📈 Contribution Graph
+
+<p align="center">
+Hi there, I'm Jahnvi Srivastava 👋
+
+<h3 align="center">💻 Software Developer in Progress | ASP.NET Core • React • C#</h3><p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub!;Building+Scalable+Web+Applications;Always+Learning+%7C+Always+Building;Future+Software+Development+Engineer+🚀" />
+</p><p align="center">
+  <b>Turning ideas into scalable web applications, one project at a time.</b>
+</p>---
