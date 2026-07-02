@@ -1,6 +1,8 @@
-Hi there 👋, I'm Jahnvi Srivastava
+<h1 align="center">Hi 👋 I'm Jahnvi Srivastava</h1>
 
-<h3 align="center">💻 Full Stack Developer | React • ASP.NET Core • C#</h3>
+<h3 align="center">
+💻 Full Stack Developer | ASP.NET Core | React | C#
+</h3>
 
 ## 👩‍💻 About Me
 
@@ -26,13 +28,13 @@ Hi there 👋, I'm Jahnvi Srivastava
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jahnvisrivastava01&theme=tokyonight&hide_border=true" />
 </p><p align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahnvisrivastava01&layout=compact&theme=tokyonight&hide_border=true" />
-</p>---
+</p>
 
 ## 📊 GitHub Contribution Graph
 
 <p align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=jahnvisrivastava01&theme=tokyo-night&hide_border=true" />
-</p>---
+</p>
 
 ## 🏗️ Notable Projects
 
