@@ -15,7 +15,7 @@ Passionate about Full Stack Development • Building Real-World Applications
 ## 👩‍💻 About Me
 
 - 🎓 B.Tech Computer Science Student (2023–2027)
-- 🏦 Full Stack Developer Intern at State Bank of India (SBI)
+- 🏦 Full Stack Developer Intern at State Bank of India (SBI) (June 2026 - August 2026)
 - 💻 Passionate about Full Stack Development & Backend Engineering
 - 🌱 Currently learning ASP.NET Core, Entity Framework Core & SQL Server
 - 🚀 Building real-world applications while continuously improving my development skills
