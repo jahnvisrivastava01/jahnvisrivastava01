@@ -5,7 +5,7 @@ B.Tech CSE @ Amity University Mumbai
 </h3>
 
 <h4 align="center">
-Frontend Developer | ASP.NET Core & C# Enthusiast 
+Full Stack Developer | MERN Stack • ASP.NET Core • C# • SQL Server
 </h4>
 
 <p align="center">
