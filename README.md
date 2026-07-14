@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jahnvi Srivastava</h1>
 
-<h3 align="center">
+<h3 align="center"> 
 B.Tech CSE @ Amity University Mumbai
 </h3>
 
