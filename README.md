@@ -79,10 +79,9 @@ Passionate about Full Stack Development • Building Real-World Applications
   <a href="https://resume-scanner-ai-1.onrender.com/">
     <img src="https://img.shields.io/badge/RESUME%20SCANNER%20AI-8A2BE2?style=for-the-badge" />
   </a>
-  <a href="https://jahnviii-portfolio.netlify.app">
-    <img src="https://img.shields.io/badge/PORTFOLIO%20WEBSITE-00A6A6?style=for-the-badge" />
-  </a>
-</p>
+<a href="https://portfolio-website-beta-rouge.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_PORTFOLIO_WEBSITE-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
 
 ## 🌱 Hobbies & Interests
