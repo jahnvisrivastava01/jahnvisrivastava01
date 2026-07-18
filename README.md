@@ -109,4 +109,4 @@ Passionate about Full Stack Development • Building Real-World Applications
 
 ---
 
-«“Building intelligent solutions through code, creativity, and continuous learning.”»
+“Building intelligent solutions through code, creativity, and continuous learning.”
