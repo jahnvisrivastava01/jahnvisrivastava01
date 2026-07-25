@@ -82,6 +82,10 @@ Passionate about Full Stack Development • Building Real-World Applications
 <a href="https://portfolio-website-beta-rouge.vercel.app/">
   <img src="https://img.shields.io/badge/🌐_PORTFOLIO_WEBSITE-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
+ <a href="https://jahnvisrivastava01-mistralbot-uichatbot-wcvxhc.streamlit.app/">
+    <img src="https://img.shields.io/badge/🤖_MISTRAL_AI_CHATBOT-FF6B35?style=for-the-badge&logo=streamlit&logoColor=white" />
+  </a>
+</p>
 
 
 ## 🌱 Hobbies & Interests
