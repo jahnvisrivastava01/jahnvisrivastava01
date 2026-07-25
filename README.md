@@ -77,13 +77,15 @@ Passionate about Full Stack Development • Building Real-World Applications
 
 <p align="center">
   <a href="https://resume-scanner-ai-1.onrender.com/">
-    <img src="https://img.shields.io/badge/RESUME%20SCANNER%20AI-8A2BE2?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/RESUME%20SCANNER%20AI-14B8A6?style=for-the-badge" />
   </a>
-<a href="https://portfolio-website-beta-rouge.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐_PORTFOLIO_WEBSITE-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
- <a href="https://jahnvisrivastava01-mistralbot-uichatbot-wcvxhc.streamlit.app/">
-    <img src="https://img.shields.io/badge/🤖_MISTRAL_AI_CHATBOT-FF6B35?style=for-the-badge&logo=streamlit&logoColor=white" />
+
+  <a href="https://portfolio-website-beta-rouge.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_PORTFOLIO_WEBSITE-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+
+  <a href="https://jahnvisrivastava01-mistralbot-uichatbot-wcvxhc.streamlit.app/">
+    <img src="https://img.shields.io/badge/🤖_MISTRAL_AI_CHATBOT-475569?style=for-the-badge&logo=streamlit&logoColor=white" />
   </a>
 </p>
 
