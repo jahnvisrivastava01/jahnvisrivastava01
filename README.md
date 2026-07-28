@@ -88,9 +88,7 @@ Passionate about Full Stack Development • Building Real-World Applications
     <img src="https://img.shields.io/badge/🤖_MISTRAL_AI_CHATBOT-475569?style=for-the-badge&logo=streamlit&logoColor=white" />
   </a>
 
-   <a href="https://drive-iykg.onrender.com/">
-    <img src="https://img.shields.io/badge/☁️DRIVE-22C55E?style=for-the-badge&logo=google-drive&logoColor=white" />
-  </a>
+   
 </p>
 
 
