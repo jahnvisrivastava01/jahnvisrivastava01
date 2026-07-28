@@ -61,23 +61,25 @@ Passionate about Full Stack Development • Building Real-World Applications
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=jahnvisrivastava01&theme=tokyo-night&hide_border=true" />
 </p>
 
-## 🏗️ Notable Projects
+## 🏗️ Featured Projects
 
+- 🤖 Mistral AI Chatbot
+- ☁️ Google Drive Clone
 - 📄 Resume Scanner AI
 - 🌐 Portfolio Website
-- 📝 Notes API Backend
+- 📝 Job Portal API Backend
 - 🛒 Zonify
 - 🌍 Smart Translator
 - 🌤️ Weather Dashboard
-- 🎮 Quiz Game
 
 ---
 
-## 🔗 Live Projects
+## 🚀 Live Projects
 
 <p align="center">
+
   <a href="https://resume-scanner-ai-1.onrender.com/">
-    <img src="https://img.shields.io/badge/RESUME%20SCANNER%20AI-14B8A6?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/📄_RESUME_SCANNER_AI-14B8A6?style=for-the-badge" />
   </a>
 
   <a href="https://portfolio-website-beta-rouge.vercel.app/">
@@ -88,19 +90,22 @@ Passionate about Full Stack Development • Building Real-World Applications
     <img src="https://img.shields.io/badge/🤖_MISTRAL_AI_CHATBOT-475569?style=for-the-badge&logo=streamlit&logoColor=white" />
   </a>
 
-<a href="https://drive-iykg.onrender.com/" target="_blank">
-  <img src="https://img.shields.io/badge/☁️DRIVE-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
-</a>
-   
+  <a href="https://drive-iykg.onrender.com/">
+    <img src="https://img.shields.io/badge/☁️_GOOGLE_DRIVE_CLONE-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
+  </a>
+
 </p>
 
+---
 
-## 🌱 Hobbies & Interests
+## 🌱 Interests
 
-- 💻 Building AI & Frontend Projects
-- 🧩 Solving Coding Challenges
-- 🎨 Exploring UI/UX Design
-- 🚀 Learning New Technologies
+- 🤖 AI & LLM Applications
+- 🌐 Full Stack Web Development
+- ☁️ Cloud & Backend Development
+- 🧩 Data Structures & Algorithms
+- 🎨 UI/UX Design
+- 🚀 Continuous Learning
 
 ---
 
@@ -120,4 +125,6 @@ Passionate about Full Stack Development • Building Real-World Applications
 
 ---
 
-“Building intelligent solutions through code, creativity, and continuous learning.”
+<p align="center">
+  <b>Building scalable full-stack applications and AI-powered solutions through continuous learning and hands-on development.</b>
+</p>
