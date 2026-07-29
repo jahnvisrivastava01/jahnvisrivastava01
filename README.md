@@ -61,7 +61,7 @@ Passionate about Full Stack Development • Building Real-World Applications
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=jahnvisrivastava01&theme=tokyo-night&hide_border=true" />
 </p>
 
-## 🏗️ Featured Projects
+## 🏗️ Notable Projects
 
 - 🤖 Mistral AI Chatbot
 - ☁️ Google Drive Clone
