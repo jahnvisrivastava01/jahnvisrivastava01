@@ -95,7 +95,7 @@ Passionate about Full Stack Development • Building Real-World Applications
   </a>
 
   <a href="https://indianjobmarketdashboard-wytdt7kfy2e9rdgdhuavje.streamlit.app/">
-    <img src="https://img.shields.io/badge/🇮🇳_JOBINTEL-7C3AED?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/🇮🇳_INDIAN_JOB_MARKET_DASHBOARD-7C3AED?style=for-the-badge&logo=streamlit&logoColor=white" />
   </a>
 
 </p>
