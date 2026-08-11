@@ -68,7 +68,6 @@ Passionate about Full Stack Development • Building Real-World Applications
 
 ## 🏗️ Notable Projects
 
-- 🤖 Mistral AI Chatbot
 - ☁️ Google Drive Clone
 - 📄 Resume Scanner AI
 - 🌐 Portfolio Website
