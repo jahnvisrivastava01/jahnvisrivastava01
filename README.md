@@ -94,6 +94,10 @@ Passionate about Full Stack Development • Building Real-World Applications
     <img src="https://img.shields.io/badge/☁️_GOOGLE_DRIVE_CLONE-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
 
+  <a href="https://indianjobmarketdashboard-wytdt7kfy2e9rdgdhuavje.streamlit.app/">
+    <img src="https://img.shields.io/badge/🇮🇳_JOBINTEL-7C3AED?style=for-the-badge&logo=streamlit&logoColor=white" />
+  </a>
+
 </p>
 
 ---
