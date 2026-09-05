@@ -87,7 +87,11 @@ Passionate about Full Stack Development • Building Real-World Applications
 ## 📊 GitHub Contribution Graph
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=jahnvisrivastava01&theme=tokyo-night&hide_border=true" />
+  <img 
+    width="95%" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=jahnvisrivastava01&theme=tokyo-night&hide_border=true&area=true" 
+    alt="GitHub Contribution Graph"
+  />
 </p>
 
 ## 🏗️ Notable Projects
