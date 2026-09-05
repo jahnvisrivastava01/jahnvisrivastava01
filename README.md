@@ -25,7 +25,13 @@ Passionate about Full Stack Development • Building Real-World Applications
 
 ## 🛠️ Skills & Tools
 
+
+
+## 📈 GitHub Stats
+
 <p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jahnvisrivastava01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <<p align="center">
 
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -48,13 +54,7 @@ Passionate about Full Stack Development • Building Real-World Applications
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
-</p>
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jahnvisrivastava01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jahnvisrivastava01&theme=tokyonight&hide_border=true" />
+</p>img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jahnvisrivastava01&theme=tokyonight&hide_border=true" />
 </p><p align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahnvisrivastava01&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
