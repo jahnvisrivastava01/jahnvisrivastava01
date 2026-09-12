@@ -130,9 +130,9 @@ Passionate about Full Stack Development • Building Real-World Applications
   <img src="https://img.shields.io/badge/INDIAN_JOB_MARKET_DASHBOARD-7C3AED?style=for-the-badge&logo=streamlit&logoColor=white" />
   </a>
 
-  <a href="https://flipkart-clone-eight-jet.vercel.app/">
-  <img src="https://img.shields.io/badge/FLIPKART_CLONE-2874F0?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+ <a href="https://flipkart-clone-eight-jet.vercel.app/">
+  <img src="https://img.shields.io/badge/FLIPKART_CLONE-10B981?style=for-the-badge&logo=vercel&logoColor=white" />
+ </a>
 
 </p>
 
