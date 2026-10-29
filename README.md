@@ -110,8 +110,8 @@ Passionate about Full Stack Development • Building Real-World Applications
 
 <p align="center">
 
-  <a href="https://resume-scanner-ai-1.onrender.com/">
-    <img src="https://img.shields.io/badge/📄_RESUME_SCANNER_AI-14B8A6?style=for-the-badge" />
+  <a href="https://resume-scanner-ai-363o.onrender.com/">
+  <img src="https://img.shields.io/badge/📄_RESUMEIQ-14B8A6?style=for-the-badge" alt="ResumeIQ Live Demo" />
   </a>
 
   <a href="https://portfolio-website-beta-rouge.vercel.app/">
