@@ -51,11 +51,11 @@ E-commerce UI clone with product listings and cart flow.
 <details>
 <summary><b>More projects</b></summary>
 
-- 📝 **Job Portal API Backend** — REST API for job listings and applications
+- 📝 **Job Portal API Backend** 
 - 🛍️ **Zonify**
 - 🌍 **Smart Translator**
 - 🌤️ **Weather Dashboard**
-- 🌐 **Portfolio Website** — [Live](https://portfolio-website-beta-rouge.vercel.app/)
+
 
 </details>
 
@@ -129,9 +129,7 @@ E-commerce UI clone with product listings and cart flow.
 
 ## 📊 GitHub Activity
 
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=jahnvisrivastava01&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Graph"/>
-</p>
+<p align="center"> <img width="95%" src="https://ghchart.rshah.org/40c463/jahnvisrivastava01" alt="GitHub Contribution Graph"/> </p>
 
 ---
 
