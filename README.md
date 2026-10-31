@@ -144,18 +144,7 @@ Full Stack (MERN · FastAPI) • AI / LLM Applications • Data Science Dashboar
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=jahnvisrivastava01&background=0d1117&ring=40c463&fire=40c463&currStreakLabel=40c463&currStreakNum=ffffff&sideNums=40c463&sideLabels=c9d1d9&dates=8b949e&stroke=30363d&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img height="170" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Stats"/>
-  <img height="170" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most Used Languages"/>
-</p>
-
-<p align="center">
-  <img width="95%" src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details"/>
-</p>
+<p align="center"> <img src="https://streak-stats.demolab.com?user=jahnvisrivastava01&theme=tokyonight&hide_border=true" alt="GitHub Streak"/> </p> <p align="center"> <img height="165" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="stats"/> <img height="165" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="top-langs"/> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=jahnvisrivastava01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophies"/> </p> <p align="center"> <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=jahnvisrivastava01&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/> </p>
 
 ## 📅 Contribution Graph
 
