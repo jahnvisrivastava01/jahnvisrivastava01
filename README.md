@@ -45,7 +45,7 @@ Full Stack (MERN · FastAPI) • AI / LLM Applications • Data Science Dashboar
 <p align="center">
 
   <a href="https://mumbai-aqi-forecaster.onrender.com/">
-    <img src="https://img.shields.io/badge/🌫️_MUMBAI_AQI_FORECASTER-14B8A6?style=for-the-badge" alt="Mumbai AQI Forecaster Live Demo" />
+  <img src="https://img.shields.io/badge/🌫️_AQI_FORECASTER-0EA5E9?style=for-the-badge" alt="Mumbai AQI Forecaster Live Demo" />
   </a>
 
   <a href="https://resume-scanner-ai-363o.onrender.com/">
