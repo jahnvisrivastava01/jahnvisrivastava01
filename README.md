@@ -64,8 +64,8 @@ Full Stack (MERN · FastAPI) • AI / LLM Applications • Data Science Dashboar
     <img src="https://img.shields.io/badge/☁️_GOOGLE_DRIVE_CLONE-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Google Drive Clone" />
   </a>
 
-  <a href="https://indianjobmarketdashboard-wytdt7kfy2e9rdgdhuavje.streamlit.app/">
-    <img src="https://img.shields.io/badge/INDIAN_JOB_MARKET_DASHBOARD-7C3AED?style=for-the-badge&logo=streamlit&logoColor=white" alt="Indian Job Market Dashboard" />
+  <a href="https://indian-job-market-dashboard.vercel.app/">
+    <img src="https://img.shields.io/badge/INDIAN_JOB_MARKET_DASHBOARD-C2410C?style=for-the-badge&logo=react&logoColor=white" alt="Indian Job Market Dashboard" />
   </a>
 
   <a href="https://flipkart-clone-eight-jet.vercel.app/">
