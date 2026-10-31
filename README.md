@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jahnvi Srivastava</h1>
 
-<h3 align="center">B.Tech CSE @ Amity University Mumbai · Full Stack Developer</h3>
+<h3 align="center">B.Tech CSE @ Amity University Mumbai · Full Stack & AI Developer</h3>
 
 <p align="center">
-Full Stack (MERN · FastAPI) • AI / LLM Applications • Data Science Dashboards
+Full Stack (MERN · ASP.NET Core · FastAPI) • AI / LLM Applications • Data Science Dashboards
 </p>
 
 <p align="center">
@@ -21,43 +21,58 @@ Full Stack (MERN · FastAPI) • AI / LLM Applications • Data Science Dashboar
 - 🧑‍🏫 **Technical Lead**, Google Developer Groups (GDG) On Campus — Amity University Mumbai
 - 🤖 Currently building AI-powered products — voice agents, career tools and LLM + RAG apps
 - 🏆 Regular hackathon participant; I enjoy taking ideas from prototype to deployed product
+
 ---
 
-## 🚀 Featured Projects
+## 🏗️ Notable Projects
 
-### 🌫️ Mumbai AQI Forecaster — [Live](https://mumbai-aqi-forecaster.onrender.com/) · [Code](https://github.com/jahnvisrivastava01/Mumbai_AQI_Forecaster)
-Station-level air-quality dashboard covering Mumbai & Navi Mumbai with 48–72 hour AQI forecasts. Pulls live data from the OpenAQ API and refreshes automatically every day via GitHub Actions.
-`Python` `Pandas` `scikit-learn` `Plotly` `GitHub Actions` `Render`
-
-### 📄 ResumeIQ — AI Resume Scanner — [Live](https://resume-scanner-ai-363o.onrender.com/)
-Analyzes resumes against job descriptions to produce ATS compatibility scores, skill-gap insights and personalized recommendations, with automated parsing and NLP-based skill extraction.
-`React` `FastAPI` `MongoDB` `NLP` `LLMs`
-
-### ☁️ Google Drive Clone — [Live](https://drive-iykg.onrender.com/)
-Cloud file storage app with upload, organization and file management.
-
-### 📊 Indian Job Market Dashboard — [Live](https://indianjobmarketdashboard-wytdt7kfy2e9rdgdhuavje.streamlit.app/)
-Interactive data dashboard exploring hiring trends, roles and skills across the Indian job market.
-`Python` `Pandas` `Plotly` `Streamlit`
-
-### 🤖 Mistral AI Chatbot — [Live](https://jahnvisrivastava01-mistralbot-uichatbot-wcvxhc.streamlit.app/)
-Conversational chatbot powered by the Mistral LLM API.
-`Python` `Mistral AI` `Streamlit`
-
-### 🛒 Flipkart Clone — [Live](https://flipkart-clone-eight-jet.vercel.app/)
-E-commerce UI clone with product listings and cart flow.
-`React` `Vercel`
-
-<details>
-<summary><b>More projects</b></summary>
-
-- 📝 **Job Portal API Backend** 
+- 🌫️ **Mumbai AQI Forecaster** 
+- 📄 **ResumeIQ (AI Resume Scanner)** 
+- ☁️ **Google Drive Clone**
+- 📊 **Indian Job Market Dashboard** 
+- 🤖 **Mistral AI Chatbot** 
+- 🛒 **Flipkart Clone** 
+- 📝 **Job Portal API Backend**
 - 🛍️ **Zonify**
 - 🌍 **Smart Translator**
 - 🌤️ **Weather Dashboard**
+- 🌐 **Portfolio Website**
 
+---
 
-</details>
+## 🚀 Live Projects
+
+<p align="center">
+
+  <a href="https://mumbai-aqi-forecaster.onrender.com/">
+    <img src="https://img.shields.io/badge/🌫️_MUMBAI_AQI_FORECASTER-14B8A6?style=for-the-badge" alt="Mumbai AQI Forecaster Live Demo" />
+  </a>
+
+  <a href="https://resume-scanner-ai-363o.onrender.com/">
+    <img src="https://img.shields.io/badge/📄_RESUMEIQ-14B8A6?style=for-the-badge" alt="ResumeIQ Live Demo" />
+  </a>
+
+  <a href="https://portfolio-website-beta-rouge.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_PORTFOLIO_WEBSITE-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Website" />
+  </a>
+
+  <a href="https://jahnvisrivastava01-mistralbot-uichatbot-wcvxhc.streamlit.app/">
+    <img src="https://img.shields.io/badge/🤖_MISTRAL_AI_CHATBOT-475569?style=for-the-badge&logo=streamlit&logoColor=white" alt="Mistral AI Chatbot" />
+  </a>
+
+  <a href="https://drive-iykg.onrender.com/">
+    <img src="https://img.shields.io/badge/☁️_GOOGLE_DRIVE_CLONE-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Google Drive Clone" />
+  </a>
+
+  <a href="https://indianjobmarketdashboard-wytdt7kfy2e9rdgdhuavje.streamlit.app/">
+    <img src="https://img.shields.io/badge/INDIAN_JOB_MARKET_DASHBOARD-7C3AED?style=for-the-badge&logo=streamlit&logoColor=white" alt="Indian Job Market Dashboard" />
+  </a>
+
+  <a href="https://flipkart-clone-eight-jet.vercel.app/">
+    <img src="https://img.shields.io/badge/FLIPKART_CLONE-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Flipkart Clone" />
+  </a>
+
+</p>
 
 ---
 
@@ -127,11 +142,26 @@ E-commerce UI clone with product listings and cart flow.
 
 ---
 
-### 📊 GitHub Stats
-<p align="center"> <img src="https://streak-stats.demolab.com?user=jahnvisrivastava01&background=0d1117&ring=40c463&fire=40c463&currStreakLabel=40c463&currStreakNum=ffffff&sideNums=40c463&sideLabels=c9d1d9&dates=8b949e&stroke=30363d&hide_border=true" alt="GitHub Streak"/> </p> <p align="center"> <img height="170" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Stats"/> <img height="170" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most Used Languages"/> </p> <p align="center"> <img width="95%" src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details"/> </p>
+## 📊 GitHub Stats
 
-### 📅 Contribution Graph
-<p align="center"> <img width="95%" src="https://ghchart.rshah.org/40c463/jahnvisrivastava01" alt="GitHub Contribution Graph"/> </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jahnvisrivastava01&background=0d1117&ring=40c463&fire=40c463&currStreakLabel=40c463&currStreakNum=ffffff&sideNums=40c463&sideLabels=c9d1d9&dates=8b949e&stroke=30363d&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img height="170" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Stats"/>
+  <img height="170" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most Used Languages"/>
+</p>
+
+<p align="center">
+  <img width="95%" src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details"/>
+</p>
+
+## 📅 Contribution Graph
+
+<p align="center">
+  <img width="95%" src="https://ghchart.rshah.org/40c463/jahnvisrivastava01" alt="GitHub Contribution Graph"/>
+</p>
 
 ---
 
