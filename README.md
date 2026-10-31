@@ -3,7 +3,7 @@
 <h3 align="center">B.Tech CSE @ Amity University Mumbai · Full Stack & AI Developer</h3>
 
 <p align="center">
-Full Stack (MERN · ASP.NET Core · FastAPI) • AI / LLM Applications • Data Science Dashboards
+Full Stack (MERN · FastAPI) • AI / LLM Applications • Data Science Dashboards
 </p>
 
 <p align="center">
