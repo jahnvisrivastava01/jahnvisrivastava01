@@ -134,6 +134,10 @@ Passionate about Full Stack Development • Building Real-World Applications
   <img src="https://img.shields.io/badge/FLIPKART_CLONE-10B981?style=for-the-badge&logo=vercel&logoColor=white" />
  </a>
 
+ <a href="https://mumbai-aqi-forecaster.onrender.com/">
+  <img src="https://img.shields.io/badge/🌫️_MUMBAI_AQI_FORECASTER-14B8A6?style=for-the-badge" alt="Mumbai AQI Forecaster Live Demo" />
+</a>
+
 </p>
 
 ---
