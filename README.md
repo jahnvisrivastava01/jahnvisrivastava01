@@ -127,8 +127,10 @@ E-commerce UI clone with product listings and cart flow.
 
 ---
 
-## 📊 GitHub Activity
+### 📊 GitHub Stats
+<p align="center"> <img src="https://streak-stats.demolab.com?user=jahnvisrivastava01&background=0d1117&ring=40c463&fire=40c463&currStreakLabel=40c463&currStreakNum=ffffff&sideNums=40c463&sideLabels=c9d1d9&dates=8b949e&stroke=30363d&hide_border=true" alt="GitHub Streak"/> </p> <p align="center"> <img height="170" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Stats"/> <img height="170" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most Used Languages"/> </p> <p align="center"> <img width="95%" src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details"/> </p>
 
+### 📅 Contribution Graph
 <p align="center"> <img width="95%" src="https://ghchart.rshah.org/40c463/jahnvisrivastava01" alt="GitHub Contribution Graph"/> </p>
 
 ---
