@@ -18,7 +18,7 @@ Full Stack (MERN · FastAPI) • AI / LLM Applications • Data Science Dashboar
 
 - 🎓 B.Tech Computer Science Engineering, Amity University Mumbai (2023–2027)
 - 🏦 **Ex-Full Stack Developer Intern @ State Bank of India** (Jun–Aug 2026) — built features with ASP.NET Core MVC, C#, Entity Framework Core & SQL Server
-- 🧑‍🏫 **Technical Lead**, Google Developer Groups (GDG) On Campus — Amity University Mumbai
+- 🧑‍🏫 **Technical Lead (2024-25)**, Google Developer Groups (GDG) On Campus — Amity University Mumbai
 - 🤖 Currently building AI-powered products — voice agents, career tools and LLM + RAG apps
 - 🏆 Regular hackathon participant; I enjoy taking ideas from prototype to deployed product
 
