@@ -45,7 +45,7 @@ Full Stack (MERN · FastAPI) • AI / LLM Applications • Data Science Dashboar
 <p align="center">
 
   <a href="https://astro-pulse-eta.vercel.app/">
-    <img src="https://img.shields.io/badge/🚀_ASTROPULSE_(NASA_SPACE_APPS)-0B3D91?style=for-the-badge&logo=nasa&logoColor=white" alt="AstroPulse Live Demo" />
+    <img src="https://img.shields.io/badge/🚀_ASTROPULSE_-0B3D91?style=for-the-badge&logo=nasa&logoColor=white" alt="AstroPulse Live Demo" />
   </a>
 
 
