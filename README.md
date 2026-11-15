@@ -44,6 +44,11 @@ Full Stack (MERN · FastAPI) • AI / LLM Applications • Data Science Dashboar
 
 <p align="center">
 
+    <a href="https://astro-pulse-eta.vercel.app/">
+    <img src="https://img.shields.io/badge/🚀_ASTROPULSE_(NASA_SPACE_APPS)-0B3D91?style=for-the-badge&logo=nasa&logoColor=white" alt="AstroPulse"/>
+  </a>
+
+
   <a href="https://mumbai-aqi-forecaster.onrender.com/">
   <img src="https://img.shields.io/badge/🌫️_AQI_FORECASTER-0EA5E9?style=for-the-badge" alt="Mumbai AQI Forecaster Live Demo" />
   </a>
